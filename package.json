@@ -1,0 +1,14 @@
+{
+"name": "big-deal-bot",
+"version": "2.0.0",
+"description": "Big Deal Economy Bot",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"discord.js": "^14.15.3",
+"express": "^4.19.2",
+"qrcode": "^1.5.3"
+}
+}
